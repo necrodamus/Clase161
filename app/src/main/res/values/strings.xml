@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clase16</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="insert">Insert</string>
+    <string name="modify">Modify</string>
+    <string name="code">Code Number</string>
+    <string name="price">Price</string>
+    <string name="descriptions">Description</string>
+    <string name="errorinsert">The key Fields are Empty</string>
+    <string name="okayinsert">Data Insert Successfully</string>
+    <string name="errorkeycode">The Key Code Number is Empty</string>
+    <string name="errorkeycodesearch">Error Not Found Key Code</string>
+</resources>
